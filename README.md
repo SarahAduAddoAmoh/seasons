@@ -1,2 +1,3 @@
-#README
-# seasons
+# maven-project
+
+Simple Maven Project
